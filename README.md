@@ -114,16 +114,16 @@ sd:/switch/infinityblade3_nx/
  ## Status
 
  Gameplay, saves, assets, audio, dialogue, cutscenes, touchscreen input and\
- controller input are working. Startup and scene transitions can still take\
- longer than on the original platforms.
+ controller input are working
 
- The wrapper is built specifically for **Infinity Blade Android v1.0.10**.\
+ The wrapper is built specifically for **Infinity Blade IOS community patch (latest)**.\
  Libraries and assets from another release are not supported.
 
 ---
 
  ## Credits
  **Infinity Blade III Switch port** - Her_Kirby
+
  **Infinity Blade Nintendo Switch port** — aks796
 
  **Infinity Blade Android port** — InfinityBladeGuy
