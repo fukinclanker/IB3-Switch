@@ -70,7 +70,7 @@ make -j
 
 Running
 
-Prepare the runtime directory on a PC using your own APK and IPA:
+Prepare the runtime directory on a PC using your own legally obtained APK and IPA. This extracts the required runtime files and verifies the supplied game data:
 
 python3 tools/prepare_runtime.py InfinityBladeIII-Android-1_2_1.apk \
     --ipa "Infinity Blade III.ipa" \
@@ -78,7 +78,17 @@ python3 tools/prepare_runtime.py InfinityBladeIII-Android-1_2_1.apk \
     --nro infinityblade3_nx.nro
 
 
-Copy the result to the SD card:
+The generated runtime should contain:
+
+runtime/
+├── infinityblade3_nx.nro
+├── cursor.png
+├── libib3.so
+├── game/Payload/SwordGame.app/...
+└── SaveData/
+
+
+Copy the result to the Switch SD card:
 
 sd:/switch/infinityblade3_nx/
 ├── infinityblade3_nx.nro
@@ -88,7 +98,9 @@ sd:/switch/infinityblade3_nx/
 └── SaveData/
 
 
-The game needs roughly 3 GB on the SD card. Launch the NRO through title override for full application memory: hold R while opening an installed game, then start Infinity Blade III from the Homebrew Menu.
+The game needs roughly 3 GB of SD card space.
+
+For full application memory, launch the NRO through title override: hold R while opening an installed game, then start Infinity Blade III from the Homebrew Menu.
 
 Status
 
@@ -108,7 +120,7 @@ Infinity Blade was developed by Chair Entertainment and Epic Games and published
 
 Contributing
 
-Bug reports and tested improvements are welcome. Include the build version, steps to reproduce, and the relevant infinityblade_nx.log when reporting an issue.
+Bug reports and tested improvements are welcome. Include the build version, steps to reproduce, and the relevant infinityblade3_nx.log when reporting an issue.
 
 Disclaimer
 
