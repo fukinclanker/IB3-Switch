@@ -105,7 +105,7 @@ sd:/switch/infinityblade3_nx/
 └── SaveData/
 ```
 
- Copy the complete `assets/` directory without changing its layout. Launch the\
+ Copy the complete `runtime/` directory contents without changing its layout to `sd:/switch/infinityblade3_nx`. Launch the\
  NRO through title override for full application memory: hold **R** while opening\
  an installed game, then start **Infinity Blade** from the Homebrew Menu.
 
