@@ -89,12 +89,13 @@ python3 tools/prepare_runtime.py InfinityBladeIII-Android-1_2_1.apk \
  folder on the SD card:
 
 ```
-sd:/switch/infinityblade_nx/
+sd:/switch/infinityblade3_nx/
 ├── infinityblade_nx.nro
 ├── cursor.png
-├── libIB1.so
+├── libIB3.so
 ├── libopenal.so
-├── assets/
+├── game/
+├── userdata/
 └── SaveData/
 ```
 
