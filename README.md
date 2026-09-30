@@ -1,16 +1,3 @@
-\<div align="center"\> \<img src="resources/icon.jpg" alt="Infinity Blade" width="160"\> # infinityblade\_nx
-
- **Infinity Blade on Nintendo Switch**
-
- An unofficial Nintendo Switch wrapper for the Android version of\
- **Infinity Blade**.
-
- \
- \
-
- \</div\>
----
-
  ## About
 
  `infinityblade_nx` is a native wrapper that runs the ARM64 Android build of\
