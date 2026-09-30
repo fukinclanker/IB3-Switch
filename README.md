@@ -94,6 +94,12 @@ sd:/switch/infinityblade3_nx/
 ├── cursor.png
 ├── libIB3.so
 ├── libopenal.so
+├── .infinityblade3_nx.nro
+├── infinityblade3_nx
+├── infinityblade3_nx.nx
+├── runtime-manifest.json
+├── settings.ini
+├── ib3rt.txt
 ├── game/
 ├── userdata/
 └── SaveData/
