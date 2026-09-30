@@ -116,7 +116,7 @@ sd:/switch/infinityblade_nx/
 ---
 
  ## Credits
-
+ **Infinity Blade III Switch port** - Her_Kirby
  **Infinity Blade Nintendo Switch port** — aks796
 
  **Infinity Blade Android port** — InfinityBladeGuy
