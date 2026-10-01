@@ -75,8 +75,7 @@ make -j
  runtime files from your own legally obtained game files:
 
 ```
-python3 tools/prepare_runtime.py InfinityBladeIII-Android-1_2_1.apk \
-  --ipa "Infinity Blade III.ipa" --output runtime --nro infinityblade3_nx.nro
+python3 tools/prepare_runtime.py InfinityBladeIII-Android-1_2_1.apk --ipa "Infinity Blade III.ipa" --output runtime --nro path/to/infinityblade3_nx.nro
 ```
 
  The prepared files will be placed in the `runtime/` directory.
