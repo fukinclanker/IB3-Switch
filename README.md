@@ -4,7 +4,7 @@
  **Infinity Blade** on Nintendo Switch. It recreates the Android, Bionic, audio,\
  input and graphics services expected by the game under Horizon OS.
 
- This release targets **Infinity Blade Android v1.0.10**, based on Unreal Engine\
+ This release targets **Infinity Blade IOS Community patch (latest)**, based on Unreal Engine\
  3 and ARM64. Other versions are not expected to work without source changes.
 
  The repository does not include the game, APK, libraries or assets. You must\
