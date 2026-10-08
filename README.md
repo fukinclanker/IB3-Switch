@@ -1,7 +1,7 @@
  ## About
 
  `infinityblade_nx` is a native wrapper that runs the ARM64 Android build of\
- **Infinity Blade** on Nintendo Switch. It recreates the Android, Bionic, audio,\
+ **Infinity Blade 3** on Nintendo Switch. It recreates the Android, Bionic, audio,\
  input and graphics services expected by the game under Horizon OS.
 
  This release targets **Infinity Blade IOS Community patch (latest)**, based on Unreal Engine\
